@@ -6,10 +6,7 @@
       "name": "Bulbasaur",
       "hp": 45,
       "cp": 1115,
-      "images": {
-        "local": "/images/001.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/001.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/001.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.71 m",
       "weight": "6.9 kg",
@@ -43,10 +40,7 @@
       "name": "Ivysaur",
       "hp": 60,
       "cp": 1550,
-      "images": {
-        "local": "/images/002.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/002.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/002.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.99 m",
       "weight": "13.0 kg",
@@ -82,10 +76,7 @@
       "name": "Venusaur",
       "hp": 80,
       "cp": 2580,
-      "images": {
-        "local": "/images/003.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/003.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/003.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "2.01 m",
       "weight": "100.0 kg",
@@ -119,10 +110,7 @@
       "name": "Charmander",
       "hp": 39,
       "cp": 955,
-      "images": {
-        "local": "/images/004.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/004.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/004.png?raw=true",
       "types": ["Fire"],
       "height": "0.61 m",
       "weight": "8.5 kg",
@@ -156,10 +144,7 @@
       "name": "Charmeleon",
       "hp": 58,
       "cp": 1480,
-      "images": {
-        "local": "/images/005.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/005.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/005.png?raw=true",
       "types": ["Fire"],
       "height": "1.09 m",
       "weight": "19.0 kg",
@@ -195,10 +180,7 @@
       "name": "Charizard",
       "hp": 78,
       "cp": 2686,
-      "images": {
-        "local": "/images/006.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/006.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/006.png?raw=true",
       "types": ["Fire", "Flying"],
       "height": "1.70 m",
       "weight": "90.5 kg",
@@ -232,10 +214,7 @@
       "name": "Squirtle",
       "hp": 44,
       "cp": 985,
-      "images": {
-        "local": "/images/007.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/007.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/007.png?raw=true",
       "types": ["Water"],
       "height": "0.51 m",
       "weight": "9.0 kg",
@@ -269,10 +248,7 @@
       "name": "Wartortle",
       "hp": 59,
       "cp": 1430,
-      "images": {
-        "local": "/images/008.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/008.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/008.png?raw=true",
       "types": ["Water"],
       "height": "0.99 m",
       "weight": "22.5 kg",
@@ -308,10 +284,7 @@
       "name": "Blastoise",
       "hp": 79,
       "cp": 2466,
-      "images": {
-        "local": "/images/009.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/009.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/009.png?raw=true",
       "types": ["Water"],
       "height": "1.60 m",
       "weight": "85.5 kg",
@@ -345,10 +318,7 @@
       "name": "Caterpie",
       "hp": 45,
       "cp": 443,
-      "images": {
-        "local": "/images/010.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/010.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/010.png?raw=true",
       "types": ["Bug"],
       "height": "0.30 m",
       "weight": "2.9 kg",
@@ -382,10 +352,7 @@
       "name": "Metapod",
       "hp": 50,
       "cp": 489,
-      "images": {
-        "local": "/images/011.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/011.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/011.png?raw=true",
       "types": ["Bug"],
       "height": "0.71 m",
       "weight": "9.9 kg",
@@ -421,10 +388,7 @@
       "name": "Butterfree",
       "hp": 60,
       "cp": 1790,
-      "images": {
-        "local": "/images/012.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/012.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/012.png?raw=true",
       "types": ["Bug", "Flying"],
       "height": "1.09 m",
       "weight": "32.0 kg",
@@ -458,10 +422,7 @@
       "name": "Weedle",
       "hp": 40,
       "cp": 449,
-      "images": {
-        "local": "/images/013.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/013.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/013.png?raw=true",
       "types": ["Bug", "Poison"],
       "height": "0.30 m",
       "weight": "3.2 kg",
@@ -495,10 +456,7 @@
       "name": "Kakuna",
       "hp": 45,
       "cp": 483,
-      "images": {
-        "local": "/images/014.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/014.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/014.png?raw=true",
       "types": ["Bug", "Poison"],
       "height": "0.61 m",
       "weight": "10.0 kg",
@@ -534,10 +492,7 @@
       "name": "Beedrill",
       "hp": 65,
       "cp": 2050,
-      "images": {
-        "local": "/images/015.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/015.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/015.png?raw=true",
       "types": ["Bug", "Poison"],
       "height": "0.99 m",
       "weight": "29.5 kg",
@@ -571,10 +526,7 @@
       "name": "Pidgey",
       "hp": 40,
       "cp": 679,
-      "images": {
-        "local": "/images/016.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/016.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/016.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "0.30 m",
       "weight": "1.8 kg",
@@ -608,10 +560,7 @@
       "name": "Pidgeotto",
       "hp": 63,
       "cp": 1190,
-      "images": {
-        "local": "/images/017.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/017.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/017.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "1.09 m",
       "weight": "30.0 kg",
@@ -647,10 +596,7 @@
       "name": "Pidgeot",
       "hp": 83,
       "cp": 2002,
-      "images": {
-        "local": "/images/018.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/018.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/018.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "1.50 m",
       "weight": "39.5 kg",
@@ -684,10 +630,7 @@
       "name": "Rattata",
       "hp": 30,
       "cp": 577,
-      "images": {
-        "local": "/images/019.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/019.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/019.png?raw=true",
       "types": ["Normal"],
       "height": "0.30 m",
       "weight": "3.5 kg",
@@ -717,10 +660,7 @@
       "name": "Raticate",
       "hp": 55,
       "cp": 1480,
-      "images": {
-        "local": "/images/020.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/020.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/020.png?raw=true",
       "types": ["Normal"],
       "height": "0.71 m",
       "weight": "18.5 kg",
@@ -750,10 +690,7 @@
       "name": "Spearow",
       "hp": 40,
       "cp": 673,
-      "images": {
-        "local": "/images/021.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/021.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/021.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "0.30 m",
       "weight": "2.0 kg",
@@ -783,10 +720,7 @@
       "name": "Fearow",
       "hp": 65,
       "cp": 1800,
-      "images": {
-        "local": "/images/022.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/022.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/022.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "1.19 m",
       "weight": "38.0 kg",
@@ -816,10 +750,7 @@
       "name": "Ekans",
       "hp": 35,
       "cp": 825,
-      "images": {
-        "local": "/images/023.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/023.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/023.png?raw=true",
       "types": ["Poison"],
       "height": "2.01 m",
       "weight": "6.9 kg",
@@ -849,10 +780,7 @@
       "name": "Arbok",
       "hp": 60,
       "cp": 1693,
-      "images": {
-        "local": "/images/024.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/024.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/024.png?raw=true",
       "types": ["Poison"],
       "height": "3.51 m",
       "weight": "65.0 kg",
@@ -882,10 +810,7 @@
       "name": "Pikachu",
       "hp": 35,
       "cp": 890,
-      "images": {
-        "local": "/images/025.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/025.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/025.png?raw=true",
       "types": ["Electric"],
       "height": "0.41 m",
       "weight": "6.0 kg",
@@ -915,10 +840,7 @@
       "name": "Raichu",
       "hp": 60,
       "cp": 1925,
-      "images": {
-        "local": "/images/026.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/026.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/026.png?raw=true",
       "types": ["Electric"],
       "height": "0.79 m",
       "weight": "30.0 kg",
@@ -948,10 +870,7 @@
       "name": "Sandshrew",
       "hp": 50,
       "cp": 1195,
-      "images": {
-        "local": "/images/027.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/027.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/027.png?raw=true",
       "types": ["Ground"],
       "height": "0.61 m",
       "weight": "12.0 kg",
@@ -981,10 +900,7 @@
       "name": "Sandslash",
       "hp": 75,
       "cp": 2250,
-      "images": {
-        "local": "/images/028.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/028.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/028.png?raw=true",
       "types": ["Ground"],
       "height": "0.99 m",
       "weight": "29.5 kg",
@@ -1014,10 +930,7 @@
       "name": "Nidoran ♀ (Female)",
       "hp": 55,
       "cp": 821,
-      "images": {
-        "local": "/images/029.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/029.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/029.png?raw=true",
       "types": ["Poison"],
       "height": "0.41 m",
       "weight": "7.0 kg",
@@ -1051,10 +964,7 @@
       "name": "Nidorina",
       "hp": 70,
       "cp": 1300,
-      "images": {
-        "local": "/images/030.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/030.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/030.png?raw=true",
       "types": ["Poison"],
       "height": "0.79 m",
       "weight": "20.0 kg",
@@ -1090,10 +1000,7 @@
       "name": "Nidoqueen",
       "hp": 90,
       "cp": 2400,
-      "images": {
-        "local": "/images/031.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/031.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/031.png?raw=true",
       "types": ["Poison", "Ground"],
       "height": "1.30 m",
       "weight": "60.0 kg",
@@ -1127,10 +1034,7 @@
       "name": "Nidoran ♂ (Male)",
       "hp": 46,
       "cp": 843,
-      "images": {
-        "local": "/images/032.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/032.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/032.png?raw=true",
       "types": ["Poison"],
       "height": "0.51 m",
       "weight": "9.0 kg",
@@ -1164,10 +1068,7 @@
       "name": "Nidorino",
       "hp": 61,
       "cp": 1370,
-      "images": {
-        "local": "/images/033.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/033.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/033.png?raw=true",
       "types": ["Poison"],
       "height": "0.89 m",
       "weight": "19.5 kg",
@@ -1203,10 +1104,7 @@
       "name": "Nidoking",
       "hp": 81,
       "cp": 2440,
-      "images": {
-        "local": "/images/034.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/034.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/034.png?raw=true",
       "types": ["Poison", "Ground"],
       "height": "1.40 m",
       "weight": "62.0 kg",
@@ -1240,10 +1138,7 @@
       "name": "Clefairy",
       "hp": 70,
       "cp": 1100,
-      "images": {
-        "local": "/images/035.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/035.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/035.png?raw=true",
       "types": ["Normal"],
       "height": "0.61 m",
       "weight": "7.5 kg",
@@ -1273,10 +1168,7 @@
       "name": "Clefable",
       "hp": 95,
       "cp": 2200,
-      "images": {
-        "local": "/images/036.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/036.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/036.png?raw=true",
       "types": ["Normal"],
       "height": "1.30 m",
       "weight": "40.0 kg",
@@ -1306,10 +1198,7 @@
       "name": "Vulpix",
       "hp": 38,
       "cp": 685,
-      "images": {
-        "local": "/images/037.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/037.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/037.png?raw=true",
       "types": ["Fire"],
       "height": "0.61 m",
       "weight": "9.9 kg",
@@ -1339,10 +1228,7 @@
       "name": "Ninetales",
       "hp": 73,
       "cp": 2150,
-      "images": {
-        "local": "/images/038.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/038.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/038.png?raw=true",
       "types": ["Fire"],
       "height": "1.09 m",
       "weight": "19.9 kg",
@@ -1372,10 +1258,7 @@
       "name": "Jigglypuff",
       "hp": 115,
       "cp": 640,
-      "images": {
-        "local": "/images/039.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/039.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/039.png?raw=true",
       "types": ["Normal"],
       "height": "0.51 m",
       "weight": "5.5 kg",
@@ -1405,10 +1288,7 @@
       "name": "Wigglytuff",
       "hp": 140,
       "cp": 1670,
-      "images": {
-        "local": "/images/040.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/040.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/040.png?raw=true",
       "types": ["Normal"],
       "height": "0.99 m",
       "weight": "12.0 kg",
@@ -1438,10 +1318,7 @@
       "name": "Zubat",
       "hp": 40,
       "cp": 613,
-      "images": {
-        "local": "/images/041.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/041.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/041.png?raw=true",
       "types": ["Poison", "Flying"],
       "height": "0.79 m",
       "weight": "7.5 kg",
@@ -1471,10 +1348,7 @@
       "name": "Golbat",
       "hp": 75,
       "cp": 1730,
-      "images": {
-        "local": "/images/042.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/042.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/042.png?raw=true",
       "types": ["Poison", "Flying"],
       "height": "1.60 m",
       "weight": "55.0 kg",
@@ -1504,10 +1378,7 @@
       "name": "Oddish",
       "hp": 45,
       "cp": 1165,
-      "images": {
-        "local": "/images/043.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/043.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/043.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.51 m",
       "weight": "5.4 kg",
@@ -1541,10 +1412,7 @@
       "name": "Gloom",
       "hp": 60,
       "cp": 1500,
-      "images": {
-        "local": "/images/044.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/044.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/044.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.79 m",
       "weight": "8.6 kg",
@@ -1580,10 +1448,7 @@
       "name": "Vileplume",
       "hp": 75,
       "cp": 2378,
-      "images": {
-        "local": "/images/045.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/045.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/045.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "1.19 m",
       "weight": "18.6 kg",
@@ -1617,10 +1482,7 @@
       "name": "Paras",
       "hp": 35,
       "cp": 910,
-      "images": {
-        "local": "/images/046.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/046.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/046.png?raw=true",
       "types": ["Bug", "Grass"],
       "height": "0.30 m",
       "weight": "5.4 kg",
@@ -1650,10 +1512,7 @@
       "name": "Parasect",
       "hp": 60,
       "cp": 1720,
-      "images": {
-        "local": "/images/047.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/047.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/047.png?raw=true",
       "types": ["Bug", "Grass"],
       "height": "0.99 m",
       "weight": "29.5 kg",
@@ -1683,10 +1542,7 @@
       "name": "Venonat",
       "hp": 60,
       "cp": 1090,
-      "images": {
-        "local": "/images/048.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/048.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/048.png?raw=true",
       "types": ["Bug", "Poison"],
       "height": "0.99 m",
       "weight": "30.0 kg",
@@ -1716,10 +1572,7 @@
       "name": "Venomoth",
       "hp": 70,
       "cp": 1860,
-      "images": {
-        "local": "/images/049.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/049.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/049.png?raw=true",
       "types": ["Bug", "Poison"],
       "height": "1.50 m",
       "weight": "12.5 kg",
@@ -1749,10 +1602,7 @@
       "name": "Diglett",
       "hp": 10,
       "cp": 413,
-      "images": {
-        "local": "/images/050.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/050.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/050.png?raw=true",
       "types": ["Ground"],
       "height": "0.20 m",
       "weight": "0.8 kg",
@@ -1782,10 +1632,7 @@
       "name": "Dugtrio",
       "hp": 35,
       "cp": 1490,
-      "images": {
-        "local": "/images/051.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/051.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/051.png?raw=true",
       "types": ["Ground"],
       "height": "0.71 m",
       "weight": "33.3 kg",
@@ -1815,10 +1662,7 @@
       "name": "Meowth",
       "hp": 40,
       "cp": 715,
-      "images": {
-        "local": "/images/052.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/052.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/052.png?raw=true",
       "types": ["Normal"],
       "height": "0.41 m",
       "weight": "4.2 kg",
@@ -1848,10 +1692,7 @@
       "name": "Persian",
       "hp": 65,
       "cp": 1500,
-      "images": {
-        "local": "/images/053.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/053.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/053.png?raw=true",
       "types": ["Normal"],
       "height": "0.99 m",
       "weight": "32.0 kg",
@@ -1881,10 +1722,7 @@
       "name": "Psyduck",
       "hp": 50,
       "cp": 1080,
-      "images": {
-        "local": "/images/054.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/054.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/054.png?raw=true",
       "types": ["Water"],
       "height": "0.79 m",
       "weight": "19.6 kg",
@@ -1914,10 +1752,7 @@
       "name": "Golduck",
       "hp": 80,
       "cp": 2050,
-      "images": {
-        "local": "/images/055.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/055.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/055.png?raw=true",
       "types": ["Water"],
       "height": "1.70 m",
       "weight": "76.6 kg",
@@ -1947,10 +1782,7 @@
       "name": "Mankey",
       "hp": 40,
       "cp": 1038,
-      "images": {
-        "local": "/images/056.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/056.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/056.png?raw=true",
       "types": ["Fighting"],
       "height": "0.51 m",
       "weight": "28.0 kg",
@@ -1980,10 +1812,7 @@
       "name": "Primeape",
       "hp": 65,
       "cp": 1860,
-      "images": {
-        "local": "/images/057.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/057.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/057.png?raw=true",
       "types": ["Fighting"],
       "height": "0.99 m",
       "weight": "32.0 kg",
@@ -2013,10 +1842,7 @@
       "name": "Growlithe",
       "hp": 55,
       "cp": 1150,
-      "images": {
-        "local": "/images/058.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/058.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/058.png?raw=true",
       "types": ["Fire"],
       "height": "0.71 m",
       "weight": "19.0 kg",
@@ -2046,10 +1872,7 @@
       "name": "Arcanine",
       "hp": 90,
       "cp": 2830,
-      "images": {
-        "local": "/images/059.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/059.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/059.png?raw=true",
       "types": ["Fire"],
       "height": "1.91 m",
       "weight": "155.0 kg",
@@ -2079,10 +1902,7 @@
       "name": "Poliwag",
       "hp": 40,
       "cp": 795,
-      "images": {
-        "local": "/images/060.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/060.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/060.png?raw=true",
       "types": ["Water"],
       "height": "0.61 m",
       "weight": "12.4 kg",
@@ -2116,10 +1936,7 @@
       "name": "Poliwhirl",
       "hp": 65,
       "cp": 1410,
-      "images": {
-        "local": "/images/061.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/061.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/061.png?raw=true",
       "types": ["Water"],
       "height": "0.99 m",
       "weight": "20.0 kg",
@@ -2155,10 +1972,7 @@
       "name": "Poliwrath",
       "hp": 90,
       "cp": 2450,
-      "images": {
-        "local": "/images/062.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/062.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/062.png?raw=true",
       "types": ["Water", "Fighting"],
       "height": "1.30 m",
       "weight": "54.0 kg",
@@ -2192,10 +2006,7 @@
       "name": "Abra",
       "hp": 25,
       "cp": 1198,
-      "images": {
-        "local": "/images/063.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/063.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/063.png?raw=true",
       "types": ["Psychic"],
       "height": "0.89 m",
       "weight": "19.5 kg",
@@ -2229,10 +2040,7 @@
       "name": "Kadabra",
       "hp": 40,
       "cp": 1660,
-      "images": {
-        "local": "/images/064.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/064.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/064.png?raw=true",
       "types": ["Psychic"],
       "height": "1.30 m",
       "weight": "56.5 kg",
@@ -2268,10 +2076,7 @@
       "name": "Alakazam",
       "hp": 55,
       "cp": 2887,
-      "images": {
-        "local": "/images/065.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/065.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/065.png?raw=true",
       "types": ["Psychic"],
       "height": "1.50 m",
       "weight": "48.0 kg",
@@ -2305,10 +2110,7 @@
       "name": "Machop",
       "hp": 70,
       "cp": 1080,
-      "images": {
-        "local": "/images/066.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/066.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/066.png?raw=true",
       "types": ["Fighting"],
       "height": "0.79 m",
       "weight": "19.5 kg",
@@ -2342,10 +2144,7 @@
       "name": "Machoke",
       "hp": 80,
       "cp": 1790,
-      "images": {
-        "local": "/images/067.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/067.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/067.png?raw=true",
       "types": ["Fighting"],
       "height": "1.50 m",
       "weight": "70.5 kg",
@@ -2381,10 +2180,7 @@
       "name": "Machamp",
       "hp": 90,
       "cp": 3050,
-      "images": {
-        "local": "/images/068.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/068.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/068.png?raw=true",
       "types": ["Fighting"],
       "height": "1.60 m",
       "weight": "130.0 kg",
@@ -2418,10 +2214,7 @@
       "name": "Bellsprout",
       "hp": 50,
       "cp": 1050,
-      "images": {
-        "local": "/images/069.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/069.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/069.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.71 m",
       "weight": "4.0 kg",
@@ -2455,10 +2248,7 @@
       "name": "Weepinbell",
       "hp": 65,
       "cp": 1530,
-      "images": {
-        "local": "/images/070.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/070.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/070.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "0.99 m",
       "weight": "6.4 kg",
@@ -2494,10 +2284,7 @@
       "name": "Victreebel",
       "hp": 80,
       "cp": 2390,
-      "images": {
-        "local": "/images/071.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/071.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/071.png?raw=true",
       "types": ["Grass", "Poison"],
       "height": "1.70 m",
       "weight": "15.5 kg",
@@ -2531,10 +2318,7 @@
       "name": "Tentacool",
       "hp": 40,
       "cp": 955,
-      "images": {
-        "local": "/images/072.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/072.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/072.png?raw=true",
       "types": ["Water", "Poison"],
       "height": "0.89 m",
       "weight": "45.5 kg",
@@ -2564,10 +2348,7 @@
       "name": "Tentacruel",
       "hp": 80,
       "cp": 2360,
-      "images": {
-        "local": "/images/073.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/073.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/073.png?raw=true",
       "types": ["Water", "Poison"],
       "height": "1.60 m",
       "weight": "55.0 kg",
@@ -2597,10 +2378,7 @@
       "name": "Geodude",
       "hp": 40,
       "cp": 1015,
-      "images": {
-        "local": "/images/074.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/074.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/074.png?raw=true",
       "types": ["Rock", "Ground"],
       "height": "0.41 m",
       "weight": "20.0 kg",
@@ -2634,10 +2412,7 @@
       "name": "Graveler",
       "hp": 55,
       "cp": 1610,
-      "images": {
-        "local": "/images/075.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/075.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/075.png?raw=true",
       "types": ["Rock", "Ground"],
       "height": "0.99 m",
       "weight": "105.0 kg",
@@ -2673,10 +2448,7 @@
       "name": "Golem",
       "hp": 80,
       "cp": 2910,
-      "images": {
-        "local": "/images/076.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/076.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/076.png?raw=true",
       "types": ["Rock", "Ground"],
       "height": "1.40 m",
       "weight": "300.0 kg",
@@ -2710,10 +2482,7 @@
       "name": "Ponyta",
       "hp": 50,
       "cp": 1590,
-      "images": {
-        "local": "/images/077.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/077.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/077.png?raw=true",
       "types": ["Fire"],
       "height": "0.99 m",
       "weight": "30.0 kg",
@@ -2743,10 +2512,7 @@
       "name": "Rapidash",
       "hp": 65,
       "cp": 2300,
-      "images": {
-        "local": "/images/078.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/078.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/078.png?raw=true",
       "types": ["Fire"],
       "height": "1.70 m",
       "weight": "95.0 kg",
@@ -2776,10 +2542,7 @@
       "name": "Slowpoke",
       "hp": 90,
       "cp": 1197,
-      "images": {
-        "local": "/images/079.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/079.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/079.png?raw=true",
       "types": ["Water", "Psychic"],
       "height": "1.19 m",
       "weight": "36.0 kg",
@@ -2809,10 +2572,7 @@
       "name": "Slowbro",
       "hp": 95,
       "cp": 2230,
-      "images": {
-        "local": "/images/080.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/080.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/080.png?raw=true",
       "types": ["Water", "Psychic"],
       "height": "1.60 m",
       "weight": "78.5 kg",
@@ -2842,10 +2602,7 @@
       "name": "Magnemite",
       "hp": 25,
       "cp": 1065,
-      "images": {
-        "local": "/images/081.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/081.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/081.png?raw=true",
       "types": ["Electric"],
       "height": "0.30 m",
       "weight": "6.0 kg",
@@ -2875,10 +2632,7 @@
       "name": "Magneton",
       "hp": 50,
       "cp": 2050,
-      "images": {
-        "local": "/images/082.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/082.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/082.png?raw=true",
       "types": ["Electric"],
       "height": "0.99 m",
       "weight": "60.0 kg",
@@ -2908,10 +2662,7 @@
       "name": "Farfetch'd",
       "hp": 52,
       "cp": 1220,
-      "images": {
-        "local": "/images/083.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/083.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/083.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "0.79 m",
       "weight": "15.0 kg",
@@ -2934,10 +2685,7 @@
       "name": "Doduo",
       "hp": 35,
       "cp": 1020,
-      "images": {
-        "local": "/images/084.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/084.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/084.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "1.40 m",
       "weight": "39.2 kg",
@@ -2967,10 +2715,7 @@
       "name": "Dodrio",
       "hp": 60,
       "cp": 1890,
-      "images": {
-        "local": "/images/085.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/085.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/085.png?raw=true",
       "types": ["Normal", "Flying"],
       "height": "1.80 m",
       "weight": "85.2 kg",
@@ -3000,10 +2745,7 @@
       "name": "Seel",
       "hp": 65,
       "cp": 1035,
-      "images": {
-        "local": "/images/086.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/086.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/086.png?raw=true",
       "types": ["Water"],
       "height": "1.09 m",
       "weight": "90.0 kg",
@@ -3033,10 +2775,7 @@
       "name": "Dewgong",
       "hp": 90,
       "cp": 1930,
-      "images": {
-        "local": "/images/087.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/087.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/087.png?raw=true",
       "types": ["Water", "Ice"],
       "height": "1.70 m",
       "weight": "120.0 kg",
@@ -3066,10 +2805,7 @@
       "name": "Grimer",
       "hp": 80,
       "cp": 1210,
-      "images": {
-        "local": "/images/088.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/088.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/088.png?raw=true",
       "types": ["Poison"],
       "height": "0.89 m",
       "weight": "30.0 kg",
@@ -3099,10 +2835,7 @@
       "name": "Muk",
       "hp": 105,
       "cp": 2470,
-      "images": {
-        "local": "/images/089.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/089.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/089.png?raw=true",
       "types": ["Poison"],
       "height": "1.19 m",
       "weight": "30.0 kg",
@@ -3132,10 +2865,7 @@
       "name": "Shellder",
       "hp": 30,
       "cp": 990,
-      "images": {
-        "local": "/images/090.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/090.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/090.png?raw=true",
       "types": ["Water"],
       "height": "0.30 m",
       "weight": "4.0 kg",
@@ -3165,10 +2895,7 @@
       "name": "Cloyster",
       "hp": 50,
       "cp": 2200,
-      "images": {
-        "local": "/images/091.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/091.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/091.png?raw=true",
       "types": ["Water", "Ice"],
       "height": "1.50 m",
       "weight": "132.5 kg",
@@ -3198,10 +2925,7 @@
       "name": "Gastly",
       "hp": 30,
       "cp": 1080,
-      "images": {
-        "local": "/images/092.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/092.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/092.png?raw=true",
       "types": ["Ghost", "Poison"],
       "height": "1.30 m",
       "weight": "0.1 kg",
@@ -3235,10 +2959,7 @@
       "name": "Haunter",
       "hp": 45,
       "cp": 1780,
-      "images": {
-        "local": "/images/093.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/093.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/093.png?raw=true",
       "types": ["Ghost", "Poison"],
       "height": "1.60 m",
       "weight": "0.1 kg",
@@ -3274,10 +2995,7 @@
       "name": "Gengar",
       "hp": 60,
       "cp": 2610,
-      "images": {
-        "local": "/images/094.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/094.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/094.png?raw=true",
       "types": ["Ghost", "Poison"],
       "height": "1.50 m",
       "weight": "40.5 kg",
@@ -3311,10 +3029,7 @@
       "name": "Onix",
       "hp": 35,
       "cp": 1130,
-      "images": {
-        "local": "/images/095.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/095.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/095.png?raw=true",
       "types": ["Rock", "Ground"],
       "height": "8.79 m",
       "weight": "210.0 kg",
@@ -3337,10 +3052,7 @@
       "name": "Drowzee",
       "hp": 60,
       "cp": 1045,
-      "images": {
-        "local": "/images/096.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/096.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/096.png?raw=true",
       "types": ["Psychic"],
       "height": "0.99 m",
       "weight": "32.4 kg",
@@ -3370,10 +3082,7 @@
       "name": "Hypno",
       "hp": 85,
       "cp": 2040,
-      "images": {
-        "local": "/images/097.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/097.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/097.png?raw=true",
       "types": ["Psychic"],
       "height": "1.60 m",
       "weight": "75.6 kg",
@@ -3403,10 +3112,7 @@
       "name": "Krabby",
       "hp": 30,
       "cp": 1150,
-      "images": {
-        "local": "/images/098.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/098.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/098.png?raw=true",
       "types": ["Water"],
       "height": "0.41 m",
       "weight": "6.5 kg",
@@ -3436,10 +3142,7 @@
       "name": "Kingler",
       "hp": 55,
       "cp": 2320,
-      "images": {
-        "local": "/images/099.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/099.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/099.png?raw=true",
       "types": ["Water"],
       "height": "1.30 m",
       "weight": "60.0 kg",
@@ -3469,10 +3172,7 @@
       "name": "Voltorb",
       "hp": 40,
       "cp": 1000,
-      "images": {
-        "local": "/images/100.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/100.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/100.png?raw=true",
       "types": ["Electric"],
       "height": "0.51 m",
       "weight": "10.4 kg",
@@ -3502,10 +3202,7 @@
       "name": "Electrode",
       "hp": 60,
       "cp": 1780,
-      "images": {
-        "local": "/images/101.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/101.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/101.png?raw=true",
       "types": ["Electric"],
       "height": "1.19 m",
       "weight": "66.6 kg",
@@ -3535,10 +3232,7 @@
       "name": "Exeggcute",
       "hp": 60,
       "cp": 1175,
-      "images": {
-        "local": "/images/102.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/102.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/102.png?raw=true",
       "types": ["Grass", "Psychic"],
       "height": "0.41 m",
       "weight": "2.5 kg",
@@ -3568,10 +3262,7 @@
       "name": "Exeggutor",
       "hp": 95,
       "cp": 2910,
-      "images": {
-        "local": "/images/103.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/103.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/103.png?raw=true",
       "types": ["Grass", "Psychic"],
       "height": "2.01 m",
       "weight": "120.0 kg",
@@ -3601,10 +3292,7 @@
       "name": "Cubone",
       "hp": 50,
       "cp": 920,
-      "images": {
-        "local": "/images/104.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/104.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/104.png?raw=true",
       "types": ["Ground"],
       "height": "0.41 m",
       "weight": "6.5 kg",
@@ -3634,10 +3322,7 @@
       "name": "Marowak",
       "hp": 60,
       "cp": 1620,
-      "images": {
-        "local": "/images/105.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/105.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/105.png?raw=true",
       "types": ["Ground"],
       "height": "0.99 m",
       "weight": "45.0 kg",
@@ -3667,10 +3352,7 @@
       "name": "Hitmonlee",
       "hp": 50,
       "cp": 2005,
-      "images": {
-        "local": "/images/106.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/106.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/106.png?raw=true",
       "types": ["Fighting"],
       "height": "1.50 m",
       "weight": "49.8 kg",
@@ -3693,10 +3375,7 @@
       "name": "Hitmonchan",
       "hp": 50,
       "cp": 1940,
-      "images": {
-        "local": "/images/107.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/107.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/107.png?raw=true",
       "types": ["Fighting"],
       "height": "1.40 m",
       "weight": "50.2 kg",
@@ -3719,10 +3398,7 @@
       "name": "Lickitung",
       "hp": 90,
       "cp": 1330,
-      "images": {
-        "local": "/images/108.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/108.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/108.png?raw=true",
       "types": ["Normal"],
       "height": "1.19 m",
       "weight": "65.5 kg",
@@ -3745,10 +3421,7 @@
       "name": "Koffing",
       "hp": 40,
       "cp": 1185,
-      "images": {
-        "local": "/images/109.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/109.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/109.png?raw=true",
       "types": ["Poison"],
       "height": "0.61 m",
       "weight": "1.0 kg",
@@ -3778,10 +3451,7 @@
       "name": "Weezing",
       "hp": 65,
       "cp": 2080,
-      "images": {
-        "local": "/images/110.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/110.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/110.png?raw=true",
       "types": ["Poison"],
       "height": "1.19 m",
       "weight": "9.5 kg",
@@ -3811,10 +3481,7 @@
       "name": "Rhyhorn",
       "hp": 80,
       "cp": 1560,
-      "images": {
-        "local": "/images/111.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/111.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/111.png?raw=true",
       "types": ["Ground", "Rock"],
       "height": "0.99 m",
       "weight": "115.0 kg",
@@ -3844,10 +3511,7 @@
       "name": "Rhydon",
       "hp": 105,
       "cp": 2900,
-      "images": {
-        "local": "/images/112.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/112.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/112.png?raw=true",
       "types": ["Ground", "Rock"],
       "height": "1.91 m",
       "weight": "120.0 kg",
@@ -3877,10 +3541,7 @@
       "name": "Chansey",
       "hp": 250,
       "cp": 1220,
-      "images": {
-        "local": "/images/113.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/113.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/113.png?raw=true",
       "types": ["Normal"],
       "height": "1.09 m",
       "weight": "34.6 kg",
@@ -3903,10 +3564,7 @@
       "name": "Tangela",
       "hp": 65,
       "cp": 1920,
-      "images": {
-        "local": "/images/114.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/114.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/114.png?raw=true",
       "types": ["Grass"],
       "height": "0.99 m",
       "weight": "35.0 kg",
@@ -3929,10 +3587,7 @@
       "name": "Kangaskhan",
       "hp": 105,
       "cp": 1800,
-      "images": {
-        "local": "/images/115.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/115.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/115.png?raw=true",
       "types": ["Normal"],
       "height": "2.21 m",
       "weight": "80.0 kg",
@@ -3955,10 +3610,7 @@
       "name": "Horsea",
       "hp": 30,
       "cp": 760,
-      "images": {
-        "local": "/images/116.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/116.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/116.png?raw=true",
       "types": ["Water"],
       "height": "0.41 m",
       "weight": "8.0 kg",
@@ -3988,10 +3640,7 @@
       "name": "Seadra",
       "hp": 55,
       "cp": 1830,
-      "images": {
-        "local": "/images/117.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/117.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/117.png?raw=true",
       "types": ["Water"],
       "height": "1.19 m",
       "weight": "25.0 kg",
@@ -4021,10 +3670,7 @@
       "name": "Goldeen",
       "hp": 45,
       "cp": 1055,
-      "images": {
-        "local": "/images/118.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/118.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/118.png?raw=true",
       "types": ["Water"],
       "height": "0.61 m",
       "weight": "15.0 kg",
@@ -4054,10 +3700,7 @@
       "name": "Seaking",
       "hp": 80,
       "cp": 1930,
-      "images": {
-        "local": "/images/119.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/119.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/119.png?raw=true",
       "types": ["Water"],
       "height": "1.30 m",
       "weight": "39.0 kg",
@@ -4087,10 +3730,7 @@
       "name": "Staryu",
       "hp": 30,
       "cp": 935,
-      "images": {
-        "local": "/images/120.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/120.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/120.png?raw=true",
       "types": ["Water"],
       "height": "0.79 m",
       "weight": "34.5 kg",
@@ -4120,10 +3760,7 @@
       "name": "Starmie",
       "hp": 60,
       "cp": 2310,
-      "images": {
-        "local": "/images/121.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/121.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/121.png?raw=true",
       "types": ["Water", "Psychic"],
       "height": "1.09 m",
       "weight": "80.0 kg",
@@ -4153,10 +3790,7 @@
       "name": "Mr. Mime",
       "hp": 40,
       "cp": 1760,
-      "images": {
-        "local": "/images/122.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/122.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/122.png?raw=true",
       "types": ["Psychic"],
       "height": "1.30 m",
       "weight": "54.5 kg",
@@ -4179,10 +3813,7 @@
       "name": "Scyther",
       "hp": 70,
       "cp": 2180,
-      "images": {
-        "local": "/images/123.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/123.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/123.png?raw=true",
       "types": ["Bug", "Flying"],
       "height": "1.50 m",
       "weight": "56.0 kg",
@@ -4205,10 +3836,7 @@
       "name": "Jynx",
       "hp": 65,
       "cp": 2250,
-      "images": {
-        "local": "/images/124.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/124.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/124.png?raw=true",
       "types": ["Ice", "Psychic"],
       "height": "1.40 m",
       "weight": "40.6 kg",
@@ -4231,10 +3859,7 @@
       "name": "Electabuzz",
       "hp": 65,
       "cp": 2080,
-      "images": {
-        "local": "/images/125.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/125.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/125.png?raw=true",
       "types": ["Electric"],
       "height": "1.09 m",
       "weight": "30.0 kg",
@@ -4257,10 +3882,7 @@
       "name": "Magmar",
       "hp": 65,
       "cp": 2110,
-      "images": {
-        "local": "/images/126.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/126.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/126.png?raw=true",
       "types": ["Fire"],
       "height": "1.30 m",
       "weight": "44.5 kg",
@@ -4283,10 +3905,7 @@
       "name": "Pinsir",
       "hp": 65,
       "cp": 2510,
-      "images": {
-        "local": "/images/127.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/127.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/127.png?raw=true",
       "types": ["Bug"],
       "height": "1.50 m",
       "weight": "55.0 kg",
@@ -4309,10 +3928,7 @@
       "name": "Tauros",
       "hp": 75,
       "cp": 2080,
-      "images": {
-        "local": "/images/128.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/128.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/128.png?raw=true",
       "types": ["Normal"],
       "height": "1.40 m",
       "weight": "88.4 kg",
@@ -4335,10 +3951,7 @@
       "name": "Magikarp",
       "hp": 20,
       "cp": 215,
-      "images": {
-        "local": "/images/129.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/129.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/129.png?raw=true",
       "types": ["Water"],
       "height": "0.89 m",
       "weight": "10.0 kg",
@@ -4368,10 +3981,7 @@
       "name": "Gyarados",
       "hp": 95,
       "cp": 2910,
-      "images": {
-        "local": "/images/130.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/130.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/130.png?raw=true",
       "types": ["Water", "Flying"],
       "height": "6.50 m",
       "weight": "235.0 kg",
@@ -4401,10 +4011,7 @@
       "name": "Lapras",
       "hp": 130,
       "cp": 2600,
-      "images": {
-        "local": "/images/131.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/131.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/131.png?raw=true",
       "types": ["Water", "Ice"],
       "height": "2.49 m",
       "weight": "220.0 kg",
@@ -4427,10 +4034,7 @@
       "name": "Ditto",
       "hp": 48,
       "cp": 832,
-      "images": {
-        "local": "/images/132.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/132.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/132.png?raw=true",
       "types": ["Normal"],
       "height": "0.30 m",
       "weight": "4.0 kg",
@@ -4453,10 +4057,7 @@
       "name": "Eevee",
       "hp": 55,
       "cp": 886,
-      "images": {
-        "local": "/images/133.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/133.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/133.png?raw=true",
       "types": ["Normal"],
       "height": "0.30 m",
       "weight": "6.5 kg",
@@ -4494,10 +4095,7 @@
       "name": "Vaporeon",
       "hp": 130,
       "cp": 2860,
-      "images": {
-        "local": "/images/134.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/134.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/134.png?raw=true",
       "types": ["Water"],
       "height": "0.99 m",
       "weight": "29.0 kg",
@@ -4527,10 +4125,7 @@
       "name": "Jolteon",
       "hp": 65,
       "cp": 2650,
-      "images": {
-        "local": "/images/135.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/135.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/135.png?raw=true",
       "types": ["Electric"],
       "height": "0.79 m",
       "weight": "24.5 kg",
@@ -4560,10 +4155,7 @@
       "name": "Flareon",
       "hp": 65,
       "cp": 2730,
-      "images": {
-        "local": "/images/136.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/136.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/136.png?raw=true",
       "types": ["Fire"],
       "height": "0.89 m",
       "weight": "25.0 kg",
@@ -4593,10 +4185,7 @@
       "name": "Porygon",
       "hp": 65,
       "cp": 1450,
-      "images": {
-        "local": "/images/137.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/137.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/137.png?raw=true",
       "types": ["Normal"],
       "height": "0.79 m",
       "weight": "36.5 kg",
@@ -4619,10 +4208,7 @@
       "name": "Omanyte",
       "hp": 35,
       "cp": 1250,
-      "images": {
-        "local": "/images/138.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/138.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/138.png?raw=true",
       "types": ["Rock", "Water"],
       "height": "0.41 m",
       "weight": "7.5 kg",
@@ -4652,10 +4238,7 @@
       "name": "Omastar",
       "hp": 70,
       "cp": 2250,
-      "images": {
-        "local": "/images/139.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/139.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/139.png?raw=true",
       "types": ["Rock", "Water"],
       "height": "0.99 m",
       "weight": "35.0 kg",
@@ -4685,10 +4268,7 @@
       "name": "Kabuto",
       "hp": 30,
       "cp": 1140,
-      "images": {
-        "local": "/images/140.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/140.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/140.png?raw=true",
       "types": ["Rock", "Water"],
       "height": "0.51 m",
       "weight": "11.5 kg",
@@ -4718,10 +4298,7 @@
       "name": "Kabutops",
       "hp": 60,
       "cp": 2220,
-      "images": {
-        "local": "/images/141.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/141.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/141.png?raw=true",
       "types": ["Rock", "Water"],
       "height": "1.30 m",
       "weight": "40.5 kg",
@@ -4751,10 +4328,7 @@
       "name": "Aerodactyl",
       "hp": 80,
       "cp": 2300,
-      "images": {
-        "local": "/images/142.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/142.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/142.png?raw=true",
       "types": ["Rock", "Flying"],
       "height": "1.80 m",
       "weight": "59.0 kg",
@@ -4777,10 +4351,7 @@
       "name": "Snorlax",
       "hp": 160,
       "cp": 2840,
-      "images": {
-        "local": "/images/143.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/143.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/143.png?raw=true",
       "types": ["Normal"],
       "height": "2.11 m",
       "weight": "460.0 kg",
@@ -4803,10 +4374,7 @@
       "name": "Articuno",
       "hp": 90,
       "cp": 2690,
-      "images": {
-        "local": "/images/144.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/144.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/144.png?raw=true",
       "types": ["Ice", "Flying"],
       "height": "1.70 m",
       "weight": "55.4 kg",
@@ -4829,10 +4397,7 @@
       "name": "Zapdos",
       "hp": 90,
       "cp": 2900,
-      "images": {
-        "local": "/images/145.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/145.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/145.png?raw=true",
       "types": ["Electric", "Flying"],
       "height": "1.60 m",
       "weight": "52.6 kg",
@@ -4855,10 +4420,7 @@
       "name": "Moltres",
       "hp": 90,
       "cp": 2900,
-      "images": {
-        "local": "/images/146.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/146.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/146.png?raw=true",
       "types": ["Fire", "Flying"],
       "height": "2.01 m",
       "weight": "60.0 kg",
@@ -4881,10 +4443,7 @@
       "name": "Dratini",
       "hp": 41,
       "cp": 775,
-      "images": {
-        "local": "/images/147.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/147.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/147.png?raw=true",
       "types": ["Dragon"],
       "height": "1.80 m",
       "weight": "3.3 kg",
@@ -4918,10 +4477,7 @@
       "name": "Dragonair",
       "hp": 61,
       "cp": 1570,
-      "images": {
-        "local": "/images/148.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/148.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/148.png?raw=true",
       "types": ["Dragon"],
       "height": "3.99 m",
       "weight": "16.5 kg",
@@ -4957,10 +4513,7 @@
       "name": "Dragonite",
       "hp": 91,
       "cp": 3450,
-      "images": {
-        "local": "/images/149.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/149.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/149.png?raw=true",
       "types": ["Dragon", "Flying"],
       "height": "2.21 m",
       "weight": "210.0 kg",
@@ -4994,10 +4547,7 @@
       "name": "Mewtwo",
       "hp": 106,
       "cp": 3600,
-      "images": {
-        "local": "/images/150.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/150.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/150.png?raw=true",
       "types": ["Psychic"],
       "height": "2.01 m",
       "weight": "122.0 kg",
@@ -5020,10 +4570,7 @@
       "name": "Mew",
       "hp": 100,
       "cp": 3090,
-      "images": {
-        "local": "/images/151.png",
-        "remote": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/151.png?raw=true"
-      },
+      "image": "https://github.com/mmhosseinzadeh9190/pokemon/blob/main/images/151.png?raw=true",
       "types": ["Psychic"],
       "height": "0.41 m",
       "weight": "4.0 kg",
